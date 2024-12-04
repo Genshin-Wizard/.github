@@ -24,7 +24,7 @@ Genshin Wizard began as a fun side project in 2022, created to simplify the live
 | Developer & Founder | Zaeem Zahid **[@hattvr](https://www.github.com/hattvr)** |
 | Developer | James **[@JamesParkDev](https://www.github.com/JamesParkDev)** |
 | Developer | Harsh Vardhan **[@SilentJungle399](https://www.github.com/SilentJungle399)** |
-| Trial-Developer | Mint **[@lunarmint](https://www.github.com/lunarmint)** |
+| Developer | Mint **[@lunarmint](https://www.github.com/lunarmint)** |
 | Community Manager | Lexa |
 | Administrator | Pneuma |
 
